@@ -1,4 +1,6 @@
 
+### Now supporting go-mod
+
 CURL-like library for golang (NOT libcurl binding)
 
 * Custom HTTP method and header
